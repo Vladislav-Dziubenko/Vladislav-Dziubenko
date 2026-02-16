@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет меня зовут Влад! Я java, python разработчик😎
 
-<!--
-**Vladislav-Dziubenko/Vladislav-Dziubenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+![https://pin.it/Z6KQvtEOg](https://s3.ezgif.com/tmp/ezgif-37ece80a0015f0c1.gif)
+Языки програмирования
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+Курсы
+___
+Изучение Python 3
+[Codecademy](https://www.codecademy.com/learn?page=learning)
+
+Изучение C++
+[Codecademy](https://www.codecademy.com/learn?page=learning)
+____
+Решение Задач
+
+[Хакерранк](https://www.hackerrank.com/profile/worldofshipkruto)
+___
+Контакт
+
+[Телеграмма](https://t.me/NIGHTanime208)
