@@ -32,6 +32,5 @@ ____
 
 [Хакерранк](https://www.hackerrank.com/profile/worldofshipkruto)
 ___
-Контакт
-
+Контакт  
 [Телеграмма](https://t.me/NIGHTanime208)
