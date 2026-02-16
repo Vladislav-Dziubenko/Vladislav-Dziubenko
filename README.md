@@ -15,8 +15,10 @@
 
 
 
-![https://pin.it/Z6KQvtEOg](https://s3.ezgif.com/tmp/ezgif-37ece80a0015f0c1.gif)
+![Python]
+
 Языки програмирования
+__
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
@@ -32,5 +34,5 @@ ____
 
 [Хакерранк](https://www.hackerrank.com/profile/worldofshipkruto)
 ___
-Контакт  
+## Контакт
 [Телеграмма](https://t.me/NIGHTanime208)
