@@ -1,21 +1,13 @@
-# Hi, my name is Vlad! I'm a Javascript and Python developer.😎
+<div align="center">
 
+# Hi, my name is Vlad! I'm a Javascript and Python developer. 😎
 
+<img src="https://raw.githubusercontent.com/Vladislav-Dziubenko/IronVlad/f34af29a5d37321010fdeaa63fa1e44582a76151/1954e37aad88f26dda08b50402bf1ce9-ezgif.com-video-to-gif-converter.gif" width="400" />
 
+</div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-![Python](https://raw.githubusercontent.com/Vladislav-Dziubenko/IronVlad/f34af29a5d37321010fdeaa63fa1e44582a76151/1954e37aad88f26dda08b50402bf1ce9-ezgif.com-video-to-gif-converter.gif)
-___
 ### 🧾 Programming languages:
 
 <img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/0f422d04-a0e6-4d6e-8e1f-52b0cf153c7c" />
