@@ -26,7 +26,7 @@ ___
 * **Studying C++**
 [Codecademy](https://www.codecademy.com/learn?page=learning)
 ### 🧠 Problem solving:
-[HackerRank](https://www.hackerrank.com/profile/worldofshipkruto)
+* [HackerRank](https://www.hackerrank.com/profile/worldofshipkruto)
 ___
 ### ❤️ Contact:
 * [Telegram](https://t.me/NIGHTanime208)
