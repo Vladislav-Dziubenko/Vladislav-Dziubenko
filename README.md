@@ -19,7 +19,7 @@
 * 🧾Programming languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-___
+
 📘Courses:
 
 * Studying Python 3
@@ -27,7 +27,7 @@ ___
 
 * Studying C++
 [Codecademy](https://www.codecademy.com/learn?page=learning)
-____
+
 * Problem solving:
 
 [HackerRank](https://www.hackerrank.com/profile/worldofshipkruto)
