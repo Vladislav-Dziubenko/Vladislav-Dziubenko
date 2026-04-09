@@ -40,5 +40,10 @@
 ---
 
 <div align="center">
-  <img src="https://vercel.app" width="400" />
+
+### 🛠 Мой стек технологий:
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![C++](https://shields.io)
+
 </div>
