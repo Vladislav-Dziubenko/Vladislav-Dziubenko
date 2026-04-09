@@ -17,20 +17,22 @@
 ---
 
 ### 📘 Courses:
+* **Studying Python 3** — [Codecademy](https://www.codecademy.com/learn?page=learning)
+* **Studying C++** — [Codecademy](https://www.codecademy.com/learn?page=learning)
 
-* **Studying Python 3**
-[Codecademy](https://www.codecademy.com/learn?page=learning)
+---
 
-* **Studying C++**
-[Codecademy](https://www.codecademy.com/learn?page=learning)
 ### 🧠 Problem solving:
 * [HackerRank](https://www.hackerrank.com/profile/worldofshipkruto)
-___
+
+---
+
 ### ❤️ Contact:
 * [Telegram](https://t.me/NIGHTanime208)
-___
-## 👤 About me:
+
+---
+
+### 👤 About me:
 * I'm a big fan of **computer games** 🕹️ and I love exploring topics like **science**, technology, and fascinating world facts. 🧐
 * I'm deeply passionate about coding and constantly expanding my knowledge in different programming languages.
 * My ultimate goal is to become a professional **game developer** and build a career in the corporate gaming industry. 😎 👌
-
