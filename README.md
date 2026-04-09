@@ -41,9 +41,7 @@
 
 <div align="center">
 
-### 🛠 Мой стек технологий:
+### 🛠 Мои стековые технологии:
 ![Python](https://shields.io)
 ![JavaScript](https://shields.io)
 ![C++](https://shields.io)
-
-</div>
