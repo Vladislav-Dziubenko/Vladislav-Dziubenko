@@ -35,6 +35,6 @@ ___
 ## Контакт
 [Телеграмма](https://t.me/NIGHTanime208)
 
-## Обо мне 
-Люблю играть в компьютерные игры, читать про интересные темы програмирование интересные факты и научные, нравится програмировать и изучаю языки програмирования.
-Цель в будущем в developer и разработка игр в компаниях.
+## About me: 
+I love playing computer games🕹️, reading about interesting topics like programming🧐, interesting facts, and science. I enjoy programming and am learning programming languages.
+My future goal is to become a developer and work in corporate game development.😎 👌
