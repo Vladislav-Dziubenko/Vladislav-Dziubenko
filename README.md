@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <img src="https://vercel.app" alt="Vlad's GitHub stats" />
+  <img src="https://vercel.app" width="400" />
 </div>
