@@ -32,7 +32,7 @@ Problem solving:
 
 [HackerRank](https://www.hackerrank.com/profile/worldofshipkruto)
 ___
-## Контакт
+## Contact:
 [Telegram](https://t.me/NIGHTanime208)
 
 ## About me: 
