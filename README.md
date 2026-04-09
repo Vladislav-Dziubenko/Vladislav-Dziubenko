@@ -41,7 +41,14 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 🛠 Мои стековые технологии:
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![C++](https://shields.io)
+
+<img src="https://github.com/user-attachments/assets/930f252b-1117-4c86-8563-f372ff5e8200" width="40" height="40" alt="python" />
+<img src="https://github.com/user-attachments/assets/ab5fb521-008d-4821-be4a-92441f44d4b3" width="40" height="40" alt="javascript" />
+<img src="https://github.com/user-attachments/assets/d1f078e6-d590-4e13-80a8-da33493a042a" width="40" height="40" alt="c++" />
+
+</div>
+
+
