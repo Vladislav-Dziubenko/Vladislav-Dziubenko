@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, my name is Vlad! I'm a Javascript and Python developer. 😎
+<h1>Hi, my name is Vlad!</h1>
+<h3>I'm a Javascript and Python developer 😎</h3>
 
 <img src="https://raw.githubusercontent.com/Vladislav-Dziubenko/IronVlad/f34af29a5d37321010fdeaa63fa1e44582a76151/1954e37aad88f26dda08b50402bf1ce9-ezgif.com-video-to-gif-converter.gif" width="400" />
 
@@ -28,6 +29,8 @@ ___
 ### ❤️ Contact:
 * [Telegram](https://t.me/NIGHTanime208)
 ___
-## About me: 
-* I love playing computer games🕹️, reading about interesting topics like programming🧐, interesting facts, and science. I enjoy programming and am learning programming languages.
-* My future goal is to become a developer and work in corporate game development.😎 👌
+## 👤 About me:
+* I'm a big fan of **computer games** 🕹️ and I love exploring topics like **science**, technology, and fascinating world facts. 🧐
+* I'm deeply passionate about coding and constantly expanding my knowledge in different programming languages.
+* My ultimate goal is to become a professional **game developer** and build a career in the corporate gaming industry. 😎 👌
+
