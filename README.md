@@ -36,3 +36,9 @@
 * I'm a big fan of **computer games** 🕹️ and I love exploring topics like **science**, technology, and fascinating world facts. 🧐
 * I'm deeply passionate about coding and constantly expanding my knowledge in different programming languages.
 * My ultimate goal is to become a professional **game developer** and build a career in the corporate gaming industry. 😎 👌
+
+---
+
+<div align="center">
+  <img src="https://vercel.app" alt="Vlad's GitHub stats" />
+</div>
