@@ -17,9 +17,10 @@
 ![Python](https://raw.githubusercontent.com/Vladislav-Dziubenko/IronVlad/f34af29a5d37321010fdeaa63fa1e44582a76151/1954e37aad88f26dda08b50402bf1ce9-ezgif.com-video-to-gif-converter.gif)
 ___
 * 🧾Programming languages:
-<img src="https://jsdelivr.net" width="40" height="40" /> 
+<img width="512" height="512" alt="free-icon-python-5968350" src="https://github.com/user-attachments/assets/0f422d04-a0e6-4d6e-8e1f-52b0cf153c7c" />
+
 <img src="https://jsdelivr.net" width="40" height="40" />
-### 📘Courses:
+### 📘 Courses:
 
 * **Studying Python 3**
 [Codecademy](https://www.codecademy.com/learn?page=learning)
