@@ -17,9 +17,8 @@
 ![Python](https://raw.githubusercontent.com/Vladislav-Dziubenko/IronVlad/f34af29a5d37321010fdeaa63fa1e44582a76151/1954e37aad88f26dda08b50402bf1ce9-ezgif.com-video-to-gif-converter.gif)
 ___
 * 🧾Programming languages:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-
+<img src="https://jsdelivr.net" width="40" height="40" /> 
+<img src="https://jsdelivr.net" width="40" height="40" />
 ### 📘Courses:
 
 * **Studying Python 3**
