@@ -28,7 +28,7 @@
 ---
 
 ### ❤️ Contact:
-* [Telegram](https://t.me/NIGHTanime208)
+* [Telegram](https://t.me/dev_vlad2)
 
 ---
 
